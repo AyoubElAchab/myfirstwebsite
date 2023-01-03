@@ -1,0 +1,22 @@
+h1{
+	color: red;
+}
+h2{
+	color: green;
+}
+#bod{
+	width: 80%;
+	float: left;
+	
+
+}
+#sdo{
+	float: left;
+	width: 19.9%;
+}
+#stt{
+	float: left;
+	width: 100%;
+	color: gold;
+	background-color: black;
+}

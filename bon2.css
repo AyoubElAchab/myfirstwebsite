@@ -1,0 +1,31 @@
+h1{
+	color: red;
+}
+h2{
+	color: green;
+}
+.stt{
+	color: #8E1111;	
+}
+ul{
+	list-style-type: circle;
+}
+p{
+	border: dotted navy 2px;
+}
+#hhh{
+	float: left;
+	width: 80%;
+}
+
+
+
+#sss{
+	float: left;
+	width: 19.9%;
+}
+#vvv{
+	float: left;
+	width: 100%;
+	background-color: black;
+}

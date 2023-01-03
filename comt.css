@@ -1,0 +1,15 @@
+h1{
+	color: #FC521A;
+}
+input:focus{
+
+	background-color:gold;
+	border: solid #7C1116 1px; 
+
+}
+input{
+	background-color: silver;
+}
+button{
+	background-color: orange;
+}
